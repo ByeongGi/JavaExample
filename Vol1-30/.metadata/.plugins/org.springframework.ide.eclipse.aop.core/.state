@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="spring30-2.2.2"/>
+<aop-project name="spring30-6.5.3"/>
+<aop-project name="spring30-7.2.3"/>
+<aop-project name="spring30-7.3.2"/>
+<aop-project name="spring30-3.6.4"/>
+<aop-project name="spring30-2.3.2"/>
+<aop-project name="spring30-2.4.1"/>
+<aop-project name="spring30-6.final"/>
+<aop-project name="spring30-7.2.6-default"/>
+<aop-project name="spring30-7.3.3"/>
+<aop-project name="spring30-7.5.1"/>
+<aop-project name="spring30-3.5.2"/>
+<aop-project name="spring30-3.6.1"/>
+<aop-project name="spring30-2.3.3"/>
+<aop-project name="spring30-6.6.4"/>
+<aop-project name="spring30-7.2.1"/>
+<aop-project name="spring30-7.4"/>
+<aop-project name="spring30-4.final"/>
+<aop-project name="spring30-1.final"/>
+<aop-project name="spring30-3.final"/>
+<aop-project name="spring30-5.1.1"/>
+<aop-project name="spring30-7.3.1"/>
+<aop-project name="spring30-1.6.5"/>
+<aop-project name="spring30-2.3.5"/>
+<aop-project name="spring30-6.2.2"/>
+<aop-project name="spring30-6.7"/>
+<aop-project name="spring30-3.5.1"/>
+<aop-project name="spring30-7.1.1"/>
+<aop-project name="spring30-5.final"/>
+<aop-project name="spring30-7.final"/>
+<aop-project name="spring30-2.3.3-set"/>
+<aop-project name="spring30-6.2.4"/>
+<aop-project name="spring30-6.4.2"/>
+<aop-project name="spring30-2.5"/>
+<aop-project name="spring30-3.4"/>
+<aop-project name="spring30-5.2.3"/>
+<aop-project name="spring30-7.5.2"/>
+<aop-project name="spring30-6.3.4"/>
+<aop-project name="spring30-6.5.2"/>
+<aop-project name="spring30-7.2.6"/>
+<aop-project name="spring30-3.3"/>
+<aop-project name="spring30-5.1.5"/>
+</aop-reference-model>
