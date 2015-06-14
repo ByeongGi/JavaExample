@@ -11,7 +11,6 @@
 <fullyQualifiedTypeName name="com.lec.java.singletonpatten.Singleton"/>
 <fullyQualifiedTypeName name="com.lec.java.singletonpatten.Singletonclass"/>
 <fullyQualifiedTypeName name="com.lec.java.inheritance.SubClass"/>
-<fullyQualifiedTypeName name="java.lang.Override"/>
 <fullyQualifiedTypeName name="com.lec.java.network01.ServerSocket"/>
 <fullyQualifiedTypeName name="java.net.ServerSocket"/>
 <fullyQualifiedTypeName name="IsGuilty"/>
@@ -19,4 +18,21 @@
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="java.util.Random"/>
 <fullyQualifiedTypeName name="java.util.function.IntConsumer"/>
+<fullyQualifiedTypeName name="com.java.relation.Professor"/>
+<fullyQualifiedTypeName name="com.java.ralation_p26.Person"/>
+<fullyQualifiedTypeName name="com.java.ralation_p26.Phone"/>
+<fullyQualifiedTypeName name="com.java.relation_p27.Phone"/>
+<fullyQualifiedTypeName name="java.lang.Package"/>
+<fullyQualifiedTypeName name="java.util.Vector"/>
+<fullyQualifiedTypeName name="com.java.relation_p28.Course"/>
+<fullyQualifiedTypeName name="com.java.dip_principle.Robot"/>
+<fullyQualifiedTypeName name="com.java.dip_principle.Kid"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="com.java.dip_principle.Toy"/>
+<fullyQualifiedTypeName name="com.java.dip_principle.Lego"/>
+<fullyQualifiedTypeName name="com.lec.java.isp_principle.Printer"/>
+<fullyQualifiedTypeName name="java.lang.CharSequence"/>
+<fullyQualifiedTypeName name="com.lec.java.isp_principle.Copier"/>
+<fullyQualifiedTypeName name="com.lec.java.isp_principle.Fax"/>
+<fullyQualifiedTypeName name="com.lec.java.isp_principle.Multifuntionc_Copier"/>
 </qualifiedTypeNameHistroy>

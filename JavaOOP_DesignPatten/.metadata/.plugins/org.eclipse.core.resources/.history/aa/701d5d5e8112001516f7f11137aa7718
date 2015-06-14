@@ -1,0 +1,15 @@
+package com.lec.java.isp_principle;
+/**
+ * 인터페이스를 클라이언트에 특화되도록 설계하는 것이다. 즉 ISP 는
+ * 인터페이스를 클라이언트에서 특화되도록 분리시키라는 설계 원칙이다.
+ * @author kira
+ *
+ */
+public class Interface_Segreation_Principle {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

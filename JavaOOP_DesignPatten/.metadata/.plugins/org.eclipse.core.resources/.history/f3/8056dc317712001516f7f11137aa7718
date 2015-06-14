@@ -1,0 +1,10 @@
+package com.lec.java.isp_principle;
+
+public class Interface_Segreation_Principle {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
