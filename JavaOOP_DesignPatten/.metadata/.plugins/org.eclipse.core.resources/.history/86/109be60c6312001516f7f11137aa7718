@@ -1,0 +1,14 @@
+package com.java.ralation_p26;
+
+public class Person {
+	private Phone[] phones;
+	
+	public Person(){
+		this.phones= new Person[2];
+	}
+	
+	
+	private void phones(Phone phone){
+		
+	}
+}

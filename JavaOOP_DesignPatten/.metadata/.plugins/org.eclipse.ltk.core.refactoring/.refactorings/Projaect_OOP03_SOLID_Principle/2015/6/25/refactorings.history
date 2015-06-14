@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.java.dip_principle.Denpendency_principle&apos; to &apos;Denpendency_Inversion_principle&apos;&#x0D;&#x0A;- Original project: &apos;Projaect_OOP03_SOLID_Principle&apos;&#x0D;&#x0A;- Original element: &apos;com.java.dip_principle.Denpendency_principle&apos;&#x0D;&#x0A;- Renamed element: &apos;com.java.dip_principle.Denpendency_Inversion_principle&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Denpendency_principle&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.java.dip_principle{Denpendency_principle.java[Denpendency_principle" matchStrategy="1" name="Denpendency_Inversion_principle" qualified="false" references="true" similarDeclarations="false" stamp="1434269279415" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,5 @@
+package com.java.dip_principle;
+
+public interface Toy {
+
+}

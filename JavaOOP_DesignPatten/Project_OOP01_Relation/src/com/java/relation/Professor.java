@@ -1,0 +1,12 @@
+package com.java.relation;
+
+public class Professor {
+	String professorName;
+	
+	public Professor(String professorName){
+		this.professorName= professorName;
+	}
+	private void adviser(String stdentName){
+		System.out.println(stdentName+"학생과 상담하다");
+	}
+}

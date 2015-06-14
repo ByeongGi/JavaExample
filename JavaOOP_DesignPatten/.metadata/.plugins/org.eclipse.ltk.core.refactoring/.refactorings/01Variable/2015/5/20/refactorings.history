@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.lec.java.variable01.variable01&apos; to &apos;Variable01&apos;&#x0D;&#x0A;- Original project: &apos;01Variable&apos;&#x0D;&#x0A;- Original element: &apos;com.lec.java.variable01.variable01&apos;&#x0D;&#x0A;- Renamed element: &apos;com.lec.java.variable01.Variable01&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;variable01&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.lec.java.variable01{variable01.java[variable01" matchStrategy="1" name="Variable01" qualified="false" references="true" similarDeclarations="false" stamp="1431781491607" textual="false" version="1.0"/>
+</session>

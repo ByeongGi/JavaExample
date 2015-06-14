@@ -1,0 +1,7 @@
+package com.java.dip_principle;
+
+public class Robot extends Toy{
+	public String toString(){
+		return "Robot";
+	}
+}
