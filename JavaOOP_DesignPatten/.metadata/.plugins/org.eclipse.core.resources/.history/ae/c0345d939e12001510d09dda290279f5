@@ -1,0 +1,15 @@
+package com.java.Anotation;
+
+public class Anotation_Example {
+	@MyAnotation(number=1)
+	public static void main(String[] args) {
+				
+		Anotation_Example anotation_Example = new Anotation_Example();
+		anotation_Example.
+		
+		
+		
+		
+	}
+
+}

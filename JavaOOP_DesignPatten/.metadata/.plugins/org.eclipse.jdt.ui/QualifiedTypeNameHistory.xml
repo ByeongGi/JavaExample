@@ -35,4 +35,15 @@
 <fullyQualifiedTypeName name="com.lec.java.isp_principle.Copier"/>
 <fullyQualifiedTypeName name="com.lec.java.isp_principle.Fax"/>
 <fullyQualifiedTypeName name="com.lec.java.isp_principle.Multifuntionc_Copier"/>
+<fullyQualifiedTypeName name="com.java.Anotation.MyAnotation"/>
+<fullyQualifiedTypeName name="com.java.Anotation.Anotation_Example"/>
+<fullyQualifiedTypeName name="com.java.Anotation.UseCase"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.java.Anotation.AnotationName"/>
+<fullyQualifiedTypeName name="java.lang.annotation.ElementType"/>
+<fullyQualifiedTypeName name="java.lang.annotation.Target"/>
+<fullyQualifiedTypeName name="java.lang.annotation.Retention"/>
+<fullyQualifiedTypeName name="com.java.Anotation.PrintAnnotation"/>
+<fullyQualifiedTypeName name="java.lang.reflect.Method"/>
+<fullyQualifiedTypeName name="com.java.Anotation.Service"/>
 </qualifiedTypeNameHistroy>

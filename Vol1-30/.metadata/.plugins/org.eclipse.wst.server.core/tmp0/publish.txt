@@ -1,0 +1,6 @@
+#Tomcat publish data
+#Wed Jun 24 21:57:58 KST 2015
+org.eclipse.jst.jee.server\:HTTPRequestHeaders03=C\:\\apache-tomcat-8.0.23-windows-x64\\apache-tomcat-8.0.23\\wtpwebapps\\HTTPRequestHeaders03
+org.eclipse.jst.jee.server\:ServletBasic01=C\:\\apache-tomcat-8.0.23-windows-x64\\apache-tomcat-8.0.23\\wtpwebapps\\ServletBasic01
+org.eclipse.jst.jee.server\:HTTPStatusCodes04=C\:\\apache-tomcat-8.0.23-windows-x64\\apache-tomcat-8.0.23\\wtpwebapps\\HTTPStatusCodes04
+org.eclipse.jst.jee.server\:formData02=C\:\\apache-tomcat-8.0.23-windows-x64\\apache-tomcat-8.0.23\\wtpwebapps\\formData02
