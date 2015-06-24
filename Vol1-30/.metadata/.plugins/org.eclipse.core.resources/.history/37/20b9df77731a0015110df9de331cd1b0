@@ -57,9 +57,8 @@ public class ServletUtilities {
    *  Without such filtering, an arbitrary string
    *  could not safely be inserted in a Web page.
    *  }
-   *  특수한 HTML 기호들을 분리함
    */
-  
+
   public static String filter(String input) {
     if (!hasSpecialChars(input)) {
       return(input);
@@ -78,7 +77,7 @@ public class ServletUtilities {
     }
     return(filtered.toString());
   }
-  // ↓ 아래의 연결에서  특수한 문자를 걸러냄(SQL Injection 같은 공격 대비)
+
   private static boolean hasSpecialChars(String input) {
     boolean flag = false;
     if ((input != null) && (input.length() > 0)) {

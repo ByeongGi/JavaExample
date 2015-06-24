@@ -57,9 +57,8 @@ public class ServletUtilities {
    *  Without such filtering, an arbitrary string
    *  could not safely be inserted in a Web page.
    *  }
-   *  특수한 HTML 기호들을 분리함
    */
-  
+
   public static String filter(String input) {
     if (!hasSpecialChars(input)) {
       return(input);

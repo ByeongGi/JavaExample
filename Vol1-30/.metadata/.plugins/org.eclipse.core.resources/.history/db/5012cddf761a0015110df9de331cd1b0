@@ -15,8 +15,8 @@ public class TestServlet extends HttpServlet {
   public void doGet(HttpServletRequest request,
                     HttpServletResponse response)
       throws ServletException, IOException {
-    response.setContentType("text/html");  // 응답할 객체의 형식을 지정함.
-    PrintWriter out = response.getWriter(); 
+    response.setContentType("text/html");
+    PrintWriter out = response.getWriter();
     out.println
       ("<!DOCTYPE html>\n" +
        "<html>\n" +
